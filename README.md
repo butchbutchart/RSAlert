@@ -7,3 +7,5 @@ It will run continuously to detect the starting of the Remote Support Customer C
 Performance impact has not been extensively assessed. (testing suggests sub 40MB Memory consumption)
 
 You will need to provide your own .wav file and input the path
+
+Will not sound for customer initiated session unless elevated or at point of elevation
